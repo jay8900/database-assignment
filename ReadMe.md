@@ -47,4 +47,10 @@ yum install python* -y
 ####2.After that run,following for desired output.
      
      b. python script.py
+     
+     
+     
+     
+     <img width="1792" alt="image" src="https://user-images.githubusercontent.com/90141704/180395430-b86a2c77-cc5e-4eff-b194-c34c7522e85c.png">
+
 
