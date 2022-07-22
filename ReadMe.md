@@ -1,6 +1,10 @@
 ##Prerequisits/SetUp:
-Take amazon linux server2\n
+Take amazon linux server2 
+
+
 yum update -y 
+
+
 yum install python* -y 
 
 
