@@ -13,7 +13,7 @@ yum install python* -y
 ####1.Download the mysql as per your OS requirements.
      
      
-     a. Install mysql8 
+     a. Install mysql8 https://techviewleo.com/how-to-install-mysql-8-on-amazon-linux-2/
       
       
       b. Setup root password and verify 
